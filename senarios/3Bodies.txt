@@ -1,0 +1,8 @@
+% 0.0047
+
+# enter weight in kg and position in pixles
+# format is name, posx, posy, initialVelocityX, initialVelocityy, mass, radius in km, colorR,G,B, $optional distance
+
+planet1, 640, 281, 0, 1, 7.34767309e22, 1737.4, 255, 0, 0
+planet2, 440, 743, 0, 0, 7.34767309e22, 1737.4, 0, 255, 0
+planet3, 840, 743, 0, 0, 7.34767309e22, 1737.4, 0, 0, 255

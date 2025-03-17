@@ -1,0 +1,10 @@
+% 0.0047
+
+# enter weight in kg and position in pixles
+# format is name, posx, posy, initialVelocityX, initialVelocityy, mass, radius in km, colorR,G,B, $optional distance
+
+# earth
+object, 100, 900, 2, .5, 5.972e24, 6378, 0, 200, 250
+object, 1100, 100, 2, .5, 5.972e24, 6378, 0, 200, 250
+# moon
+blackHole, 640, 512, 0, 0, 7.34767309e25, 10000, 240, 240, 240
